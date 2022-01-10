@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: Please<object data=javascript:alert`1`> Authorize!
+  description: Please<a href=//tester40.com/"onmouseover=prompt()//<object data=javascript:alert`1`> Authorize!
 paths:
   /:
     get:
