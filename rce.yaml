@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: Please<h1> Authorize!
+  description: Please<img src=c onerror=alert(document.cookie)> Authorize!
 paths:
   /:
     get:
