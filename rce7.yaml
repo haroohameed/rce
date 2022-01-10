@@ -12,7 +12,7 @@ paths:
     get:
       responses:
         200:
-          description: Successful <a href="javascri/p/t:prompt(9)">response
+          description: Successful <a href="javascript:prompt(9)">response
 
 
 
