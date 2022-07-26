@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe src='http://evil.com' width=100% heigth=1000px name='javascript:alert(9)'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe src='http://bing.com' width=100% heigth=1000px name='javascript:alert(9)'>"></form>
 
   version: production
 basePath: /JSSResource/
