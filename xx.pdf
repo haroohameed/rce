@@ -4,7 +4,7 @@
 <<
   /Type /Action
   /S /JavaScript
-  /JS (app.alert(this.domain);)
+  /JS (app.launchURL\("https://example.com", true\);)
 >>
 endobj
 
@@ -28,32 +28,30 @@ endobj
 <<
   /Type /Page
   /Parent 3 0 R
-  /MediaBox [0 0 100 100]
+  /MediaBox [0 0 612 792]
   /Contents 5 0 R
 >>
 endobj
 
 5 0 obj
-<<
-  /Length 44
->>
+<< /Length 44 >>
 stream
 BT
 /F1 12 Tf
-10 50 Td
-(Test Page) Tj
+72 720 Td
+(Loading...) Tj
 ET
 endstream
 endobj
 
 xref
 0 6
-0000000000 65535 f
-0000000010 00000 n
-0000000115 00000 n
-0000000205 00000 n
-0000000260 00000 n
-0000000350 00000 n
+0000000000 65535 f 
+0000000009 00000 n 
+0000000101 00000 n 
+0000000192 00000 n 
+0000000249 00000 n 
+0000000340 00000 n 
 
 trailer
 <<
@@ -61,5 +59,5 @@ trailer
   /Root 2 0 R
 >>
 startxref
-430
+435
 %%EOF
