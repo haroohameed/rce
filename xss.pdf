@@ -4,7 +4,7 @@
 <<
   /Type /Action
   /S /JavaScript
-  /JS (app.alert(document.domain);)
+  /JS (app.alert(this.domain);)
 >>
 endobj
 
